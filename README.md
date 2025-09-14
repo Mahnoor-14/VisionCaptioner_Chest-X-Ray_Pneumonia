@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 **VisionCaptioner** is an AI-based image captioning system that combines **ResNet-50** (CNN encoder) with a **Transformer decoder** to generate human-like captions for images.  
 This repository focuses on **medical imaging** — particularly **Chest X-Rays** — to automatically describe whether an image is **Normal** or shows signs of **Pneumonia**.  
-
+Dataset used can be doeloaded from *https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia*
 The project supports training, inference, and a **Streamlit frontend** for interactive testing.
 
 ---
